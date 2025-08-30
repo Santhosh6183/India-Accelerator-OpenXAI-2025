@@ -3,6 +3,8 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-b from-indigo-100 via-white to-indigo-50 dark:from-gray-900 dark:via-gray-950 dark:to-black text-gray-900 dark:text-gray-100 px-6">
       {/* Hero Section */}
       <section className="max-w-4xl text-center mt-20">
+        <h1 className="text-2xl font-bold">🚀 Personalized Quiz Generator</h1>
+
         <h1 className="text-5xl sm:text-6xl font-extrabold tracking-tight mb-6 bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
           Personalized Quiz Generator
         </h1>
